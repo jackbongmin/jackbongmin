@@ -1,5 +1,5 @@
 ## Hi there! I'm Jongmin BAEK 👋
-Game Client Developer specializing in Unreal Engine & C++.
+*Striving until imagination blooms across the world through my creations.*
 
 ### 🛠️ Tech Stack
 * **Languages:** C++, Java
