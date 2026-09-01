@@ -15,3 +15,7 @@
 * 📄 [Portfolio](https://drive.google.com/file/d/1ba-_2r4tGYEAYHaJ-FNvCiHkVzX1Dwr3/view?usp=drive_link)
 * ✍️ [Blog](https://blog.naver.com/a66121)
 * 📌 [Notion Study Note](https://app.notion.com/p/2e7c9dbbf2a880779102cf95dfb5aab7)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=jackbongmin&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackbongmin&layout=compact&theme=tokyonight" />
