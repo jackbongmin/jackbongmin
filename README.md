@@ -16,6 +16,9 @@
 * ✍️ [Blog](https://blog.naver.com/a66121)
 * 📌 [Notion Study Note](https://app.notion.com/p/2e7c9dbbf2a880779102cf95dfb5aab7)
 
+<div align="center">
+<img src="https://github-readme-stats-tawny-nine-28.vercel.app/api?username=jackbongmin&show_icons=true&theme=dracula" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=jackbongmin&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackbongmin&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-tawny-nine-28.vercel.app/api/top-langs/?username=jackbongmin&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-tawny-nine-28.vercel.app/api/top-langs/?username=jackbongmin&show_icons=true&theme=dracula" />
+</div>
