@@ -18,7 +18,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-tawny-nine-28.vercel.app/api/top-langs/?username=jackbongmin&layout=compact&theme=dracula" />  
+  <img src="https://github-readme-stats-tawny-nine-28.vercel.app/api/top-langs/?username=jackbongmin&layout=compact&theme=dracula&hide=html" />  
 <img src="https://github-readme-stats-tawny-nine-28.vercel.app/api?username=jackbongmin&show_icons=true&theme=dracula" />
 
 
